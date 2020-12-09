@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Assignment checklist
 
-You can use the [editor on GitHub](https://github.com/v1ckm/v1ckm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Check Skyward for zeros
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Record any zeros
+- Reach out to teachers using the following email template:
 
-### Markdown
+```
+Hello [TEACHER NAME],
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am missing the following assignment/s:
 
-```markdown
-Syntax highlighted code block
+- [ASSIGNMENT 1]
+- [ASSIGNMENT 2]
 
-# Header 1
-## Header 2
-### Header 3
+Can I still turn this/these in for either partial or full credit?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Thank you.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- If a teacher confirms you can turn in the assignment, then turn in the assignment as soon as possible.
 
-### Jekyll Themes
+## Check Google Classroom To-do list
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/v1ckm/v1ckm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Click on the **hamburger symbol** (3 horizontal lines)
+- Click on **To-do**
+- Select **All classes** from the drop-down
+- Click on the **Missing** tab
+- Review and complete all assignments from sections:
+  - This week
+  - Last week
+  - Earlier (be reasonable on how far back you review for the dates)
+- Click on the **Assigned** tab
+- Review and complete all assignments from the **This week** section
 
-### Support or Contact
+## Check each individual Google Classroom
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Click on the **hamburger symbol** (3 horizontal lines)
+- Click on each individual class
+- For each class:
+  - Click on the **Classwork** tab
+  - Click on **View your work**
+  - Complete any **Assigned** or **Missing** work
+    - Be reasonable about how far back in dates you review
+
+## Check Google Canvas for Geometry assignments
+
+## What to do if you cannot complete an assignment
+
+- Missing materials
+  - Email teacher asking about missing materials
+
+- Other reasons
+  - Document why you cannot complete the assignment
+  - Turn in documentation to father
