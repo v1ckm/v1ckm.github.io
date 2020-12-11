@@ -53,3 +53,11 @@ Thank you.
 - Other reasons
   - Document why you cannot complete the assignment
   - Turn in documentation to father
+
+## Before you go to bed
+
+- Go talk to your father in person.
+- You will be asked to discuss the following:
+  - Assignments completed
+  - Emails sent to teachers
+  - Assignments you cannot complete
