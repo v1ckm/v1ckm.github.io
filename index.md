@@ -1,5 +1,7 @@
 # Assignment checklist
 
+> :NOTE: This checklist **DOES NOT** apply if you are passing **ALL** of your classes.
+
 ## Check Skyward for zeros
 
 - Record any zeros
