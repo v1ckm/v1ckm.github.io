@@ -62,5 +62,5 @@ Thank you.
   - Emails sent to teachers
   - Assignments you cannot complete
 
-> :warning: Failure to speak with your father before going to bed will result in losing your phone the following morning.
+> :WARNING: Failure to speak with your father before going to bed will result in losing your phone the following morning.
 > You will not receive your phone back until that evening whenever you complete the **Before you go to bed** task.
