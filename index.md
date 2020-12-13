@@ -58,6 +58,9 @@ Thank you.
 
 ## Before you go to bed
 
+> :NOTE: This task must be completed between 8 and 10 PM.
+> If your father is not available during that time, then an exception will be made.
+
 - Go talk to your father in person.
 - You will be asked to discuss the following:
   - Assignments completed
